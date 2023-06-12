@@ -1,7 +1,7 @@
 # React Wordle
 
 I forked this repo and made the least amount of changes possible to set up a
-3-letter version of Wordle for kids to play. It's hosted with GitHub Pages at
+4-letter version of Wordle for kids to play. It's hosted with GitHub Pages at
 [https://derekwinters.github.io/words](https://derekwinters.github.io/words).
 
 
