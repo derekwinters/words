@@ -113,7 +113,6 @@ export const WORDS = [
   'four',
   'line',
   'girl',
-  'kill',
   'back',
   'once',
   'news',
